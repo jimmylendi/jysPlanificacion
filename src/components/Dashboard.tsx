@@ -9,7 +9,7 @@ const Dashboard: React.FC = () => {
       description: "No más hojas de cálculo complicadas"
     },
     {
-      title: "Mantiene tus finanzas sincronizadas",
+      title: "Mantiene tus finanzas sincronizadass",
       icon: <Star className="text-yellow-500" size={24} />,
       description: "Todo conectado en tiempo real"
     },
